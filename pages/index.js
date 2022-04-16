@@ -25,7 +25,7 @@ const Home = ({ data }) => {
           alt=""
         />
         <div>
-          <HiOutlineMenuAlt2 className="text-3xl text-sky-900 md:hidden" />
+          <HiOutlineMenuAlt2 className="cursor-pointer text-3xl text-sky-900 md:hidden" />
         </div>
       </nav>
       <Sidebar />
